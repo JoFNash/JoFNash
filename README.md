@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning with the help of https://docs.github.com/en
 - 💬 Ask me about my projects!
 - 📫 How to reach me: olga.l6647@gmail.com
-- 🔭 I’m currently working on project "minishell" of School 42
+- 🔭 I’m currently working on project "minishell" of School 21
 
 <!--
 **JoFNash/JoFNash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
