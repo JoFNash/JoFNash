@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student</h3>
 
 - 🔭 I’m currently working on project "minishell" of School 42
-- 🌱 I’m currently learning with the help of docs.github.com
+- 🌱 I’m currently learning with the help of https://docs.github.com/en
 - 💬 Ask me about my projects!
 - 📫 How to reach me: olga.l6647@gmail.com
 
