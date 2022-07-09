@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning with the help of https://docs.github.com/en
 - 💬 Ask me about my projects!
-- 📫 How to reach me: olga.l6647@gmail.com
+- 📫 How to reach me: olebmg@mail.ru
 - 🔭 I’m currently working on project "minishell" of School 21
 
 <!--
