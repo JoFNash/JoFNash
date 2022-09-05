@@ -5,7 +5,7 @@
 - 📖 I am a 4th year student at MAI (Moscow Aviation Institute)
 - 💻 I study at school 21 (SBER project)
 - 📫 Mail: olebmg@mail.ru
-- 💬 Telegram: Larout
+- 💬 Telegram: @Larout
 - 🌱 I’m currently working on project "CPP Module" of School 21
 - 💬 Ask me about my projects!
 
